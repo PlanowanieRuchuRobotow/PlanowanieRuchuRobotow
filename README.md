@@ -1,1 +1,1 @@
-# Planowanie-Ruchu-Robotow
+# PlanowanieRuchuRobotow
